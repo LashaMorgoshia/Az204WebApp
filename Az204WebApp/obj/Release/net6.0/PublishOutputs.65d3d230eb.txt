@@ -5,3 +5,9 @@ C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\n
 C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\PubTmp\Out\Az204WebApp.deps.json
 C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\PubTmp\Out\Az204WebApp.runtimeconfig.json
 C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\PubTmp\Out\Az204WebApp.pdb
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\PubTmp\Out\Azure.Core.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\PubTmp\Out\Azure.Storage.Blobs.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\PubTmp\Out\Azure.Storage.Common.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\PubTmp\Out\System.IO.Hashing.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\PubTmp\Out\System.Memory.Data.dll

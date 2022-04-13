@@ -24,3 +24,10 @@ C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\n
 C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\Az204WebApp.pdb
 C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\Az204WebApp.genruntimeconfig.cache
 C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\ref\Az204WebApp.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\bin\Release\net6.0\Azure.Core.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\bin\Release\net6.0\Azure.Storage.Blobs.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\bin\Release\net6.0\Azure.Storage.Common.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\bin\Release\net6.0\System.IO.Hashing.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\xnaga\source\repos\LashaMorgoshia\Az204WebApp\Az204WebApp\obj\Release\net6.0\Az204WebApp.csproj.CopyComplete
