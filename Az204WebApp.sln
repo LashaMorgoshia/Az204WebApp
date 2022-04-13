@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Az204WebApp", "Az204WebApp\Az204WebApp.csproj", "{72409A10-18A2-4C5B-AD87-44161DF6062A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp1", "FunctionApp1\FunctionApp1.csproj", "{71F1EA06-D01C-4A2F-8D31-B3C4106FCCED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp2", "FunctionApp2\FunctionApp2.csproj", "{5EAAB416-DFB7-461E-83C6-3D070564629D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{72409A10-18A2-4C5B-AD87-44161DF6062A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72409A10-18A2-4C5B-AD87-44161DF6062A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72409A10-18A2-4C5B-AD87-44161DF6062A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F1EA06-D01C-4A2F-8D31-B3C4106FCCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F1EA06-D01C-4A2F-8D31-B3C4106FCCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F1EA06-D01C-4A2F-8D31-B3C4106FCCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F1EA06-D01C-4A2F-8D31-B3C4106FCCED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAAB416-DFB7-461E-83C6-3D070564629D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAAB416-DFB7-461E-83C6-3D070564629D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAAB416-DFB7-461E-83C6-3D070564629D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAAB416-DFB7-461E-83C6-3D070564629D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
